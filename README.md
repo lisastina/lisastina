@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi I'm Lisa! ✨
+
+I am a Frontend developer and Graphic designer, passionate about creating astheticly pleasing and user friendly websites.
 
 <!--
 **lisastina/lisastina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
